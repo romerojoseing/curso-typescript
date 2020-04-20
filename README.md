@@ -10,33 +10,40 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 
 Repositorio para almacenar los archivos diseñados durante el curso de Typescript.
 
-<br><br>
+<br>
 
 ## Usa el Proyecto
 
 Para usar cualquier proyecto desde tu ordenador siempre debes tener en cuenta los requisitos mínimos para ejecutar este en el mejor ambiente posible, y para eso es bueno prestar atención a las recomendaciones.
 
-### Requisitos
+<br>
+
+## Requisitos
 
 Necesitas tener los siguientes programas o tecnologías instaladas para poder ejecutar el proyecto.
 
 - Node.js
 - NPM
 
+<br>
 
-### Instalar
+## Instalar
 
-Para instalar typescript debemos utilizar el siguiente comando:
+Para instalar typescript debemos utilizar el siguiente comando, usamos el -g para que se instale de forma global:
 
 ```ssh
 $ npm install typescript -g
 ```
 
-<br><br>
+## Compilar
 
-## Despliegue
+Para compilar archivos usando Typescript hacemos uso del siguiente comando en consola. 
 
-Para desplegar este proyecto solo necesitaras ir a la carpeta y ejecutar el archivo index.html para tener el sitio corriendo en tu navegador.
+```ssh
+$ tsc file.ts
+```
+
+Esto nos creará un archivo de tipo js con el mismo nombre el cual será la salida de este.
 
 <br><br>
 
