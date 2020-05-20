@@ -53,7 +53,7 @@ _Esto nos creará un archivo de tipo js con el mismo nombre el cual será la sal
 _Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías:_
 
 * [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animaciones y funcionalidades.
-* [TypeScript](https://www.typescriptlang.org/) - Entorno de ejecución para JavaScript.
+* [TypeScript](https://www.typescriptlang.org/) - Superconjunto de JavaScript.
 
 <br>
 
